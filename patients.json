@@ -1,0 +1,12 @@
+[
+    {
+        "id": "P100",
+        "name": "Test Patient",
+        "age": "30",
+        "gender": "Male",
+        "illness": "Fever",
+        "doctor": "Dr. Sharma",
+        "admit_date": "21/11/25",
+        "phone": "9999999999"
+    }
+]
